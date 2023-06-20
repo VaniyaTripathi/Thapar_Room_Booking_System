@@ -1,0 +1,12 @@
+body {
+    background-image: url("./Untitled\ design.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+  }
+  
+  .temp{
+    color: #CE5959;
+  }
